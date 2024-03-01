@@ -1,0 +1,4 @@
+magnet_controller:
+  ros__parameters:
+    relay_pins: [26, 21, 20]
+

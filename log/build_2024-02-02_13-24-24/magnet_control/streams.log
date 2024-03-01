@@ -1,0 +1,57 @@
+[0.886s] Invoking command in '/home/rmr4389/ros2_ws/src/magnet_control': PYTHONPATH=/home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/prefix_override:/home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/magnet_control build --build-base /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build install --record /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/install.log --single-version-externally-managed
+[1.098s] running egg_info
+[1.098s] creating build/magnet_control/magnet_control.egg-info
+[1.114s] writing build/magnet_control/magnet_control.egg-info/PKG-INFO
+[1.114s] writing dependency_links to build/magnet_control/magnet_control.egg-info/dependency_links.txt
+[1.115s] writing entry points to build/magnet_control/magnet_control.egg-info/entry_points.txt
+[1.115s] writing requirements to build/magnet_control/magnet_control.egg-info/requires.txt
+[1.115s] writing top-level names to build/magnet_control/magnet_control.egg-info/top_level.txt
+[1.115s] writing manifest file 'build/magnet_control/magnet_control.egg-info/SOURCES.txt'
+[1.149s] reading manifest file 'build/magnet_control/magnet_control.egg-info/SOURCES.txt'
+[1.150s] writing manifest file 'build/magnet_control/magnet_control.egg-info/SOURCES.txt'
+[1.150s] running build
+[1.150s] running build_py
+[1.151s] creating /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build
+[1.151s] creating /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib
+[1.151s] creating /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control
+[1.151s] copying magnet_control/__init__.py -> /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control
+[1.151s] copying magnet_control/RPi.py -> /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control
+[1.151s] copying magnet_control/ros2server.py -> /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control
+[1.151s] copying magnet_control/ros2client.py -> /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control
+[1.152s] running install
+[1.152s] /home/rmr4389/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.152s] !!
+[1.152s] 
+[1.152s]         ********************************************************************************
+[1.152s]         Please avoid running ``setup.py`` directly.
+[1.153s]         Instead, use pypa/build, pypa/installer or other
+[1.153s]         standards-based tools.
+[1.153s] 
+[1.153s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.153s]         ********************************************************************************
+[1.153s] 
+[1.153s] !!
+[1.153s]   self.initialize_options()
+[1.161s] running install_lib
+[1.177s] creating /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control
+[1.177s] copying /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control/__init__.py -> /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control
+[1.177s] copying /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control/RPi.py -> /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control
+[1.178s] copying /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control/ros2server.py -> /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control
+[1.178s] copying /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build/lib/magnet_control/ros2client.py -> /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control
+[1.178s] byte-compiling /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control/__init__.py to __init__.cpython-310.pyc
+[1.179s] byte-compiling /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control/RPi.py to RPi.cpython-310.pyc
+[1.179s] byte-compiling /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control/ros2server.py to ros2server.cpython-310.pyc
+[1.180s] byte-compiling /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control/ros2client.py to ros2client.cpython-310.pyc
+[1.180s] running install_data
+[1.197s] creating /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/share/ament_index
+[1.197s] creating /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/share/ament_index/resource_index
+[1.197s] creating /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/share/ament_index/resource_index/packages
+[1.197s] copying resource/magnet_control -> /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/share/ament_index/resource_index/packages
+[1.197s] copying package.xml -> /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/share/magnet_control
+[1.197s] running install_egg_info
+[1.215s] Copying build/magnet_control/magnet_control.egg-info to /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages/magnet_control-0.0.0-py3.10.egg-info
+[1.216s] running install_scripts
+[1.383s] Installing ros2client script to /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/magnet_control
+[1.383s] Installing ros2server script to /home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/magnet_control
+[1.383s] writing list of installed files to '/home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/install.log'
+[1.405s] Invoked command in '/home/rmr4389/ros2_ws/src/magnet_control' returned '0': PYTHONPATH=/home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/prefix_override:/home/rmr4389/ros2_ws/src/magnet_control/install/magnet_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/magnet_control build --build-base /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/build install --record /home/rmr4389/ros2_ws/src/magnet_control/build/magnet_control/install.log --single-version-externally-managed

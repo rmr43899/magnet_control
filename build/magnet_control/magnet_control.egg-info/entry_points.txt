@@ -1,0 +1,3 @@
+[console_scripts]
+ros2client = magnet_control.ros2client:main
+ros2server = magnet_control.ros2server:main
